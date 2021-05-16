@@ -1,0 +1,27 @@
+body{
+    font-family: 'Abel', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    transition: 500ms ease;
+}
+
+a:hover{
+    text-decoration: underline;
+}
