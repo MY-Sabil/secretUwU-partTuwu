@@ -7,3 +7,4 @@ console.log("%cThen just inbox me in discord at NinjaByte#9397" , "color: #017e7
 console.log("%cThe first person who'll inbox me the result first wins!!" , "color: #017e7f; font-family: 'Abel', sans-serif; font-size: 20px;")
 console.log(" ")
 console.log("%cPh sklqlvkhg wkh wklqjb!! qrz jle ph prqhb ru hovh!! dqg Kl Qlqmd XzX" , "color: #eb452b; font-family: 'Abel', sans-serif; font-size: 19px;")
+console.log(" ")
